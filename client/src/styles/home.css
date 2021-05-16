@@ -1,0 +1,10 @@
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.title img {
+    width: 50%;
+}
